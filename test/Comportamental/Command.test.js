@@ -1,9 +1,9 @@
-import Cockpit from '../../../src/Comportamental/CommandPattern/CockPit';
-import Turbine from '../../../src/Comportamental/CommandPattern/Turbine';
-import OnCommand from '../../../src/Comportamental/CommandPattern/OnCommand';
-import OffCommand from '../../../src/Comportamental/CommandPattern/OffCommand';
-import SpeedUpCommand from "../../../src/Comportamental/CommandPattern/SpeedUpCommand";
-import SpeedDownCommand from "../../../src/Comportamental/CommandPattern/SpeedDownCommand";
+import Cockpit from '../../src/Comportamental/CommandPattern/CockPit';
+import Turbine from '../../src/Comportamental/CommandPattern/Turbine';
+import OnCommand from '../../src/Comportamental/CommandPattern/OnCommand';
+import OffCommand from '../../src/Comportamental/CommandPattern/OffCommand';
+import SpeedUpCommand from "../../src/Comportamental/CommandPattern/SpeedUpCommand";
+import SpeedDownCommand from "../../src/Comportamental/CommandPattern/SpeedDownCommand";
 
 let turbina = null;
 let cockpit = null;
