@@ -1,5 +1,3 @@
-import ICCC from "../../src/Comportamental/Template/IKCV";
-import IKCV from "../../src/Comportamental/Template/ICCC";
 import OrdemDePagamento from "../../src/Comportamental/State/OrdemDePagamento";
 
 describe('Design Pattern State Tests', () => {
